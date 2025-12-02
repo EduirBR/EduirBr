@@ -8,6 +8,6 @@
 - Otros: Godot para desarrollo de video juegos
 
 ## 📫 Contáctame
-- [LinkedIn] (https://www.linkedin.com/in/eduir-brazon/)
-- [Email] (eduirbrazon@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/eduir-brazon/)
+- [Email](eduirbrazon@gmail.com)
   
